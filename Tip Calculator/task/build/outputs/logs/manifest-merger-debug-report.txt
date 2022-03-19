@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/dmitry/.gradle/caches/transforms-3/539bcb188135f0be038b2141b181d9e2/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0-beta01] /Users/dmitry/.gradle/caches/transforms-3/fee319adc53f9715ce0d03198234bd83/transformed/material-1.3.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/dmitry/.gradle/caches/transforms-3/3ba2cadd4e9403d47a7bf64afc28d47d/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/dmitry/.gradle/caches/transforms-3/cc3483bafa02838cbf29e528a0fb322f/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/bf598488ca40211f7622804887ff67ab/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/e063628615b46d31d3c926b1c3797c8a/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/dmitry/.gradle/caches/transforms-3/968ab5be86a4579b0507e574d74e0d0c/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/116fb885fa866ea69ea992d2f4bdd984/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/5e16c70df4398aee392568b3022823e7/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/769298b8c0cd0831ade879340cfbe1c9/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/dmitry/.gradle/caches/transforms-3/fa13c1ab6ee2a9ce0c16b11bbcad18aa/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/b77bd76172dd453a38a6c9f57d87d341/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/a465d039e86596ca6ccb8d14511b28c2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/3e594b8403e600e7353e7e1cdf038ab1/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/56cde1ce89002c64c4ab94579e253379/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/4d0f8f1072a91087e4cca75e2475043a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/9c1f16859779469e15a9f1cfae2617bc/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/a70aadcbf7b67f5ee5ed3db0bf9bcb3f/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/15b5a104d0c8e5dc5fb468939ae73a34/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /Users/dmitry/.gradle/caches/transforms-3/31427642e5a533ad68898a9d3668727b/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/acf21ed7c16c650a8d60b3ff55064147/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/5cb421fe65f00cee888ff03db10e7ec3/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/8430c826df7c01ffe1174ee8e2229ce6/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/dmitry/.gradle/caches/transforms-3/2cd9f217eed68a8ff053a795e7421f8f/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/dmitry/.gradle/caches/transforms-3/a18748e5ae94f2051d6041cce853f26c/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/4900fa654d9d91574d1e443240098f5e/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/42fea7ee5440f68553911562c6d0153d/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/cdf1c7f14664778e112987ce82ee904d/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/8c4a39d498de2deeb9ab7931de0c6b8f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/38e46169bfe2bce024e366f29b8c233f/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dmitry/.gradle/caches/transforms-3/e71fd2b1ce22fa267fda927e8293b7d5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dmitry/.gradle/caches/transforms-3/bae96187fa231d0520201471b52b3966/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dmitry/.gradle/caches/transforms-3/e902d2ad535bd9f028e05b03a5718c7d/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/caa271324339b9b2cf93edd255583a7c/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+		INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+		ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+		ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:5:3-19:17
+MERGED from [com.google.android.material:material:1.3.0-beta01] /Users/dmitry/.gradle/caches/transforms-3/fee319adc53f9715ce0d03198234bd83/transformed/material-1.3.0-beta01/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-beta01] /Users/dmitry/.gradle/caches/transforms-3/fee319adc53f9715ce0d03198234bd83/transformed/material-1.3.0-beta01/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/dmitry/.gradle/caches/transforms-3/3ba2cadd4e9403d47a7bf64afc28d47d/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/dmitry/.gradle/caches/transforms-3/3ba2cadd4e9403d47a7bf64afc28d47d/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] /Users/dmitry/.gradle/caches/transforms-3/31427642e5a533ad68898a9d3668727b/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/dmitry/.gradle/caches/transforms-3/31427642e5a533ad68898a9d3668727b/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/8430c826df7c01ffe1174ee8e2229ce6/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/8430c826df7c01ffe1174ee8e2229ce6/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/dmitry/.gradle/caches/transforms-3/31427642e5a533ad68898a9d3668727b/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:10:7-33
+	android:label
+		ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:6:7-33
+	android:theme
+		ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:11:7-38
+activity#org.hyperskill.calculator.tip.MainActivity
+ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:12:5-18:16
+	android:name
+		ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:12:15-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:13:7-17:23
+action#android.intent.action.MAIN
+ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:14:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:16:9-69
+	android:name
+		ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml:16:19-66
+uses-sdk
+INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/dmitry/.gradle/caches/transforms-3/539bcb188135f0be038b2141b181d9e2/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/dmitry/.gradle/caches/transforms-3/539bcb188135f0be038b2141b181d9e2/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0-beta01] /Users/dmitry/.gradle/caches/transforms-3/fee319adc53f9715ce0d03198234bd83/transformed/material-1.3.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-beta01] /Users/dmitry/.gradle/caches/transforms-3/fee319adc53f9715ce0d03198234bd83/transformed/material-1.3.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/dmitry/.gradle/caches/transforms-3/3ba2cadd4e9403d47a7bf64afc28d47d/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/dmitry/.gradle/caches/transforms-3/3ba2cadd4e9403d47a7bf64afc28d47d/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/dmitry/.gradle/caches/transforms-3/cc3483bafa02838cbf29e528a0fb322f/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/dmitry/.gradle/caches/transforms-3/cc3483bafa02838cbf29e528a0fb322f/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/bf598488ca40211f7622804887ff67ab/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/bf598488ca40211f7622804887ff67ab/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/e063628615b46d31d3c926b1c3797c8a/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/e063628615b46d31d3c926b1c3797c8a/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/dmitry/.gradle/caches/transforms-3/968ab5be86a4579b0507e574d74e0d0c/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/dmitry/.gradle/caches/transforms-3/968ab5be86a4579b0507e574d74e0d0c/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/116fb885fa866ea69ea992d2f4bdd984/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/116fb885fa866ea69ea992d2f4bdd984/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/5e16c70df4398aee392568b3022823e7/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/5e16c70df4398aee392568b3022823e7/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/769298b8c0cd0831ade879340cfbe1c9/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/769298b8c0cd0831ade879340cfbe1c9/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/dmitry/.gradle/caches/transforms-3/fa13c1ab6ee2a9ce0c16b11bbcad18aa/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/dmitry/.gradle/caches/transforms-3/fa13c1ab6ee2a9ce0c16b11bbcad18aa/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/b77bd76172dd453a38a6c9f57d87d341/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/b77bd76172dd453a38a6c9f57d87d341/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/a465d039e86596ca6ccb8d14511b28c2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/a465d039e86596ca6ccb8d14511b28c2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/3e594b8403e600e7353e7e1cdf038ab1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/3e594b8403e600e7353e7e1cdf038ab1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/56cde1ce89002c64c4ab94579e253379/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/56cde1ce89002c64c4ab94579e253379/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/4d0f8f1072a91087e4cca75e2475043a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/4d0f8f1072a91087e4cca75e2475043a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/9c1f16859779469e15a9f1cfae2617bc/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/9c1f16859779469e15a9f1cfae2617bc/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/a70aadcbf7b67f5ee5ed3db0bf9bcb3f/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/a70aadcbf7b67f5ee5ed3db0bf9bcb3f/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/15b5a104d0c8e5dc5fb468939ae73a34/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/15b5a104d0c8e5dc5fb468939ae73a34/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /Users/dmitry/.gradle/caches/transforms-3/31427642e5a533ad68898a9d3668727b/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/dmitry/.gradle/caches/transforms-3/31427642e5a533ad68898a9d3668727b/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/acf21ed7c16c650a8d60b3ff55064147/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/acf21ed7c16c650a8d60b3ff55064147/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/5cb421fe65f00cee888ff03db10e7ec3/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/5cb421fe65f00cee888ff03db10e7ec3/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/8430c826df7c01ffe1174ee8e2229ce6/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/dmitry/.gradle/caches/transforms-3/8430c826df7c01ffe1174ee8e2229ce6/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/dmitry/.gradle/caches/transforms-3/2cd9f217eed68a8ff053a795e7421f8f/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/dmitry/.gradle/caches/transforms-3/2cd9f217eed68a8ff053a795e7421f8f/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/dmitry/.gradle/caches/transforms-3/a18748e5ae94f2051d6041cce853f26c/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/dmitry/.gradle/caches/transforms-3/a18748e5ae94f2051d6041cce853f26c/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/4900fa654d9d91574d1e443240098f5e/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/4900fa654d9d91574d1e443240098f5e/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/42fea7ee5440f68553911562c6d0153d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/42fea7ee5440f68553911562c6d0153d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/cdf1c7f14664778e112987ce82ee904d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/cdf1c7f14664778e112987ce82ee904d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/8c4a39d498de2deeb9ab7931de0c6b8f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/8c4a39d498de2deeb9ab7931de0c6b8f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/38e46169bfe2bce024e366f29b8c233f/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/38e46169bfe2bce024e366f29b8c233f/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dmitry/.gradle/caches/transforms-3/e71fd2b1ce22fa267fda927e8293b7d5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dmitry/.gradle/caches/transforms-3/e71fd2b1ce22fa267fda927e8293b7d5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dmitry/.gradle/caches/transforms-3/bae96187fa231d0520201471b52b3966/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dmitry/.gradle/caches/transforms-3/bae96187fa231d0520201471b52b3966/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dmitry/.gradle/caches/transforms-3/e902d2ad535bd9f028e05b03a5718c7d/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dmitry/.gradle/caches/transforms-3/e902d2ad535bd9f028e05b03a5718c7d/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/caa271324339b9b2cf93edd255583a7c/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/dmitry/.gradle/caches/transforms-3/caa271324339b9b2cf93edd255583a7c/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+		ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+		INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+		ADDED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml
+		INJECTED from /Users/dmitry/StudioProjects/Tip Calculator/Tip Calculator/task/src/main/AndroidManifest.xml

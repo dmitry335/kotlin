@@ -1,0 +1,9 @@
+x[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckSliderListenerLast: sdk=28; resources=BINARY
+SCalled loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=28
+{[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckEditTextListenerFirst: sdk=28; resources=BINARY
+s[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckTextViewExist: sdk=28; resources=BINARY
+q[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckSliderExist: sdk=28; resources=BINARY
+y[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckSliderListenerFirst: sdk=28; resources=BINARY
+s[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckEditTextExist: sdk=28; resources=BINARY
+z[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckEditTextListenerLast: sdk=28; resources=BINARY
+	t[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckLongJustForFun: sdk=28; resources=BINARY
