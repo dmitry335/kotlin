@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.stopwatch.NotificationUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-19T11:11:15" hostname="Dmitrys-MBP" time="9.143">
+  <properties/>
+  <testcase name="testShouldCheckNotificationVisibilityOnTimeExceed" classname="org.hyperskill.stopwatch.NotificationUnitTest" time="9.143"/>
+  <system-out><![CDATA[Downloading from maven 
+[Robolectric] org.hyperskill.stopwatch.NotificationUnitTest.testShouldCheckNotificationVisibilityOnTimeExceed: sdk=28; resources=BINARY
+Downloading from maven 
+Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=28
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.stopwatch.ProgressBarUnitTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-03-19T11:11:43" hostname="Dmitrys-MBP" time="7.692">
+  <properties/>
+  <testcase name="testShouldCheckProgressBarColorEachSecond" classname="org.hyperskill.stopwatch.ProgressBarUnitTests" time="5.742"/>
+  <testcase name="testShouldCheckProgressBarInvisibilityOnInit" classname="org.hyperskill.stopwatch.ProgressBarUnitTests" time="0.109"/>
+  <testcase name="testShouldCheckProgressBarVisibilityOnStart" classname="org.hyperskill.stopwatch.ProgressBarUnitTests" time="0.103"/>
+  <testcase name="testShouldCheckMultipleClicks" classname="org.hyperskill.stopwatch.ProgressBarUnitTests" time="1.516"/>
+  <testcase name="testShouldCheckProgressBarExists" classname="org.hyperskill.stopwatch.ProgressBarUnitTests" time="0.116"/>
+  <testcase name="testShouldCheckProgressBarInvisibilityOnReset" classname="org.hyperskill.stopwatch.ProgressBarUnitTests" time="0.106"/>
+  <system-out><![CDATA[[Robolectric] org.hyperskill.stopwatch.ProgressBarUnitTests.testShouldCheckProgressBarColorEachSecond: sdk=28; resources=BINARY
+[Robolectric] org.hyperskill.stopwatch.ProgressBarUnitTests.testShouldCheckProgressBarInvisibilityOnInit: sdk=28; resources=BINARY
+[Robolectric] org.hyperskill.stopwatch.ProgressBarUnitTests.testShouldCheckProgressBarVisibilityOnStart: sdk=28; resources=BINARY
+[Robolectric] org.hyperskill.stopwatch.ProgressBarUnitTests.testShouldCheckMultipleClicks: sdk=28; resources=BINARY
+[Robolectric] org.hyperskill.stopwatch.ProgressBarUnitTests.testShouldCheckProgressBarExists: sdk=28; resources=BINARY
+[Robolectric] org.hyperskill.stopwatch.ProgressBarUnitTests.testShouldCheckProgressBarInvisibilityOnReset: sdk=28; resources=BINARY
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
