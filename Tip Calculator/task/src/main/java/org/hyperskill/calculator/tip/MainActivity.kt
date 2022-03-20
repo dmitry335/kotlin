@@ -28,8 +28,7 @@ class MainActivity : AppCompatActivity() {
                 val tip = (billValue.toDouble() / 100.0 * tipPercentage.toInt())
                 val tip_txt = String.format("%.2f", tip)
 
-                textView.text = "Tip amount: ${tip_txt}"
-//                textView.text = "${tipPercentage.toInt()}% tip: ${tip_txt}"
+                textView.text = "${tipPercentage.toInt()}% tip: ${tip_txt}"
             } else {
                 textView.text = ""
             }

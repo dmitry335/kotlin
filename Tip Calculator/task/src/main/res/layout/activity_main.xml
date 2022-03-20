@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:textSize="30dp"
-        android:inputType="numberDecimal"
+        android:inputType="number"
         android:text=""
         app:layout_constraintTop_toTopOf="parent"
         tools:layout_editor_absoluteX="100dp" />
